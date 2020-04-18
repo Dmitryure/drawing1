@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Dmitryure/drawing1#readme",
   "dependencies": {
-    "canvas-sketch": "^0.7.3"
+    "canvas-sketch": "^0.7.3",
+    "canvas-sketch-util": "^1.10.0",
+    "nice-color-palettes": "^3.0.0"
   }
 }
